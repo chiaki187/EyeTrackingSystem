@@ -10,97 +10,16 @@
     
     "images":[
         {
-            "name":"01_0",
-            "file": "image/1_Normal.png"
+            "name":"01",
+            "file": "image/1.png"
         },
         {
-            "name":"01_1",
-            "file": "image/1_normalGlare_opaque.png"
+            "name":"02",
+            "file": "image/2.png"
         },{
-            "name":"01_2",
-            "file": "image/1_normalGlare_transparent.png"
-        },
-        {
-            "name":"01_3",
-            "file": "image/1_bigGlare_opaque.png"
-        },{
-            "name":"01_4",
-            "file": "image/1_bigGlare_transparent.png"
-        },
-
-
-        {
-            "name":"02_0",
-            "file": "image/2_Normal.png"
-        },
-        {
-            "name":"02_1",
-            "file": "image/2_normalGlare_opaque.png"
-        },{
-            "name":"02_2",
-            "file": "image/2_normalGlare_transparent.png"
-        },
-        {
-            "name":"02_3",
-            "file": "image/2_bigGlare_opaque.png"
-        },{
-            "name":"02_4",
-            "file": "image/2_bigGlare_transparent.png"
-        },
-
-        {
-            "name":"03_0",
-            "file": "image/3_Normal.png"
-        },
-        {
-            "name":"03_1",
-            "file": "image/3_normalGlare_opaque.png"
-        },{
-            "name":"03_2",
-            "file": "image/3_normalGlare_transparent.png"
-        },
-        {
-            "name":"03_3",
-            "file": "image/3_bigGlare_opaque.png"
-        },{
-            "name":"03_4",
-            "file": "image/3_bigGlare_transparent.png"
-        },
-
-        {
-            "name":"04_0",
-            "file": "image/4_Normal.png"
-        },
-        {
-            "name":"04_1",
-            "file": "image/4_normalGlare_opaque.png"
-        },{
-            "name":"04_2",
-            "file": "image/4_normalGlare_transparent.png"
-        },
-        {
-            "name":"04_3",
-            "file": "image/4_bigGlare_opaque.png"
-        },{
-            "name":"04_4",
-            "file": "image/4_bigGlare_transparent.png"
-        },
-
-
-        {
-            "name":"05",
-            "file": "image/cros.png"
-        },
-
-        {
-            "name":"06",
-            "file": "image/cros.png"
+            "name":"03",
+            "file": "image/3.png"
         }
-        ,
-
-        {
-            "name":"07",
-            "file": "image/black.png"
-        }
+      
     ]
 }

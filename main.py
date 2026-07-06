@@ -7,7 +7,7 @@ from display import (
 import tobii
 
 
-tobii.a()
+#tobii.a()
 
 
 #画像を映す順番を設定
@@ -15,7 +15,6 @@ movie_sequence = [
 
     "01",
     "02",
-    "01",
     "03"
     
 
@@ -26,7 +25,7 @@ imageTime = 5
 #各画像を何秒流すか設定
 display_time = {
 
-    "01":imageTime,
+    "01":imageTime+imageTime,
     "02":imageTime,
     "03":imageTime,
 }
@@ -38,11 +37,11 @@ init_display()
 
 
 print("Tobii接続")
-tobii.connect()
+#tobii.connect()
 
 
 print("計測開始")
-tobii.start_recording()
+#tobii.start_recording()
 
 
 
@@ -59,7 +58,7 @@ for name in movie_sequence:
 
 print("計測停止")
 
-tobii.stop_recording()
+#tobii.stop_recording()
 
 
 
